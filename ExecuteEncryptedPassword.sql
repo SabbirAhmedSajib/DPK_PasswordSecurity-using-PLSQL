@@ -1,0 +1,1 @@
+select HR.dfn_create_password_encrypted('100140', '1234567') from dual;
